@@ -29,3 +29,5 @@ Welcome to my GitHub profile!
 🚀 As I explore the Go programming language, you'll find my projects below. I'm constantly working to improve and expand my skills.
 
 Thanks for visiting my profile! Let's embark on this exciting journey together. 🚀
+![image](https://github.com/CyberNerdBlake/CyberNerdBlake/assets/108043930/bb6380b9-fcec-4083-a9ab-629acf8e4634)
+
